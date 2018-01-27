@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 182dc75aee85df94c989b069d88cb393
+timeCreated: 1517074374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: double-brother-ratman-beast_0
+    21300002: double-brother-ratman-beast_1
+    21300004: double-brother-ratman-beast_2
+    21300006: double-brother-ratman-beast_3
+    21300008: double-brother-ratman-beast_4
+    21300010: double-brother-ratman-beast_5
+    21300012: double-brother-ratman-beast_6
+    21300014: double-brother-ratman-beast_7
+    21300016: double-brother-ratman-beast_8
+    21300018: double-brother-ratman-beast_9
+    21300020: double-brother-ratman-beast_10
+    21300022: double-brother-ratman-beast_11
+    21300024: double-brother-ratman-beast_12
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1570
+        width: 175
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1570
+        width: 175
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1570
+        width: 185
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_3
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1570
+        width: 195
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1090
+        width: 210
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1090
+        width: 175
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1090
+        width: 185
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_7
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1090
+        width: 195
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 610
+        width: 210
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 610
+        width: 175
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_10
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 610
+        width: 185
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_11
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 610
+        width: 195
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: double-brother-ratman-beast_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 130
+        width: 210
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
